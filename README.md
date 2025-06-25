@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a secure software developer with strong foundations in cybersecurity. Currently working as an Associate Software Developer at Coditas, I'm dedicated to building robust and secure systems. My journey in the tech world has been nothing short of exciting, and I'm always eager to learn and grow.
+I'm a secure software developer with strong foundations in cybersecurity. Currently pursuing my masters in Computer Science at the University of Southern California, I'm dedicated to building robust and secure systems. My journey in the tech world has been nothing short of exciting, and I'm always eager to learn and grow.
 
 - 🔐 Certified Ethical Hacker (CEHv12)
 - 🌐 Cisco Certified Network Associate (CCNA)
@@ -38,6 +38,7 @@ I'm a secure software developer with strong foundations in cybersecurity. Curren
 - 🖧 Networking
 - 🖧 Network Security
 - 💻 Application Security
+-    Governance, Risk and Compliance
 
 ## 🧠 Machine Learning Explorer
 
