@@ -2,7 +2,7 @@
 
 # 👨‍💻 Where Code Meets Security! 🌐
 
-**Secure Software Developer | Cybersecurity Enthusiast 🚀**
+**Cybersecurity Enthusiast | Proficient in Go, Python, JavaScript | API & Backend Development | Web Security & Vulnerability Assessment | Full-Stack Development | Threat Detection | Blockchain Development 🚀**
 
 ## About Me
 
