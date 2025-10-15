@@ -12,7 +12,7 @@ I'm a security-focused software engineer currently pursuing my Master's in Compu
 
 -  Building CTI Dashboards, Vulnerability Management Systems, and AI-based healthcare tools  
 -  Hands-on with real-world tools: **Nmap**, **Nikto**, **Burp Suite**, **Metasploit**, **OpenVAS**, **Redis**, and more  
--  Certified Ethical Hacker (CEHv12) | Cisco Certified Network Associate (CCNA)  
+-  Certified Ethical Hacker (CEHv12) | Cisco Certified Network Associate (CCNA)  |  AWS Security Fundamentals
 -  Working with Golang, Node.js, and React to build robust backend & frontend systems  
 -  German Language Proficiency (B1 certified) | Linux Enthusiast  
 
