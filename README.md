@@ -2,13 +2,13 @@
 
 # 👨‍💻 Where Code Meets Security! 🌐
 
-**Secure Software Developer | Cybersecurity Enthusiast | Full-Stack Developer | Threat Intelligence & Vulnerability Management | Golang • Python • JavaScript • React • Node.js • MongoDB • Docker • Kubernetes**
+**Full-Stack Developer | Secure Software Developer | Cybersecurity Enthusiast | Threat Intelligence & Vulnerability Management | Golang • Python • JavaScript • React • Node.js • MongoDB • Docker • Kubernetes**
 
 ---
 
 ##  About Me
 
-I'm a security-focused software engineer currently pursuing my Master's in Computer Science at the University of Southern California (USC). With a passion for building secure, scalable systems, I bridge the worlds of software development and cybersecurity.
+I'm a software engineer currently pursuing my Master's in Computer Science at the University of Southern California (USC). With a passion for building secure, scalable systems, I bridge the worlds of software development and cybersecurity.
 
 -  Building CTI Dashboards, Vulnerability Management Systems, and AI-based healthcare tools  
 -  Hands-on with real-world tools: **Nmap**, **Nikto**, **Burp Suite**, **Metasploit**, **OpenVAS**, **Redis**, and more  
