@@ -61,9 +61,9 @@ Projects involving:
 
 ##  Featured Projects
 
+-  **Multimodal Depression Detection System** — BERT + Facial feature fusion with Flask API backend  
 -  **Vulnerability Management System** — Real-time scanner dashboard built with Nmap, Nikto, and Chart.js  
 -  **Cyber Threat Intelligence Dashboard** — Interactive React.js frontend pulling threat feeds and visualizing attack trends  
--  **Multimodal Depression Detection System** — BERT + Facial feature fusion with Flask API backend  
 -  **CertiChain** — Blockchain-powered certificate validation platform (pitched at USC I-Corps & Trojan Tank)
 
 ---
